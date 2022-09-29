@@ -1,0 +1,3 @@
+42775|sara|pass1|0|Sara Egan|20|Female|Checking
+
+88545|joshdaboyy|pass4321|-50|josh crispo|20|Male|Checking

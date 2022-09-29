@@ -1,0 +1,5 @@
+88545|joshdaboyy|pass4321|0|josh crispo|20|Male|Savings|2021-12-18
+66691|josh|p1|0|terry|20|Female|Savings|2021-12-18
+
+
+42775|sara|pass1|150|Sara Egan|20|Female|Savings|2021-12-18

@@ -1,0 +1,5 @@
+442991|Deposit 500 to Account No. 88545, New balance is 500
+3597|Transferred 200 from Account No. 88545 to Account No. 42775, New balance is 300
+59204|Deposit 400 to Savings Account No. 42775, New balance is 400
+691085| Withdrew 250 from Savings Account No. 42775, New balance is 150
+647411| Withdrew 50 from Checking Account No. 88545, New balance is -50

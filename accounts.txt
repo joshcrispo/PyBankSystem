@@ -1,0 +1,9 @@
+5075|jx|jx123|0|Siong Kah|21|Male
+73575|yungkid|pass2|0|young kid|11|Male
+6457|exampleuser|example1|0|My Example|17|Male
+66691|josh|p1|300|terry|0|Female
+
+
+88545|joshdaboyy|pass4321|300|josh crispo|20|Male
+
+42775|sara|pass1|200|Sara Egan|20|Female
